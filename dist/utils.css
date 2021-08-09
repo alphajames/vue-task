@@ -69,7 +69,9 @@
 .text-9xl{
     font-size: 9rem;
 }
-
+.test-border{
+    border: 2px solid black; 
+}
 /* font weights  */
 .font-900{
     font-weight: 900;
